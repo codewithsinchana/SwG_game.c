@@ -28,13 +28,16 @@ This project is a fun take on the classic **Rock, Paper, Scissors** game.
 
 **How to Run**
  
-  Clone the repository:
-   git clone https://github.com/codewithsinchana/SwG_Game.git
+    Clone the repository:
+    git clone https://github.com/codewithsinchana/SwG_Game.git
 
 ## Output
 Choose 0 for Snake, 1 for Water, 2 for Gun: 0
+
 You chose Snake - 0  🐍
+
 Computer chose Gun - 2 🔫
+
 You lose!
 
 
