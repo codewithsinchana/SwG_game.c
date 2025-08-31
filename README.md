@@ -29,7 +29,6 @@ This project is a fun take on the classic **Rock, Paper, Scissors** game.
 **How to Run**
  
   Clone the repository:
-   ```bash
    git clone https://github.com/codewithsinchana/SwG_Game.git
 
 ## Output
